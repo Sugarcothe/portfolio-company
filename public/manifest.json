@@ -1,0 +1,21 @@
+{
+  "short_name": "GreenCode inc.",
+  "name": "",
+  "description": "A technology company",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "type": "",
+        "sizes": "192x192"
+      },
+      {
+        "src": "",
+        "type": "",
+        "sizes": ""
+      }
+    ],
+  "start_url": "",
+  "display": "",
+  "theme_color": "",
+  "background_color": ""
+}
