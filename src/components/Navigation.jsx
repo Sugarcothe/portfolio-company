@@ -38,7 +38,7 @@ const Navigation = () => {
             id="navbar-main"
           >
             <Container>
-              <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
+              <NavbarBrand className="mr-lg-3" to="/" tag={Link}>
                 <h2 className="text-white" id="nav-title">{greetings.name}</h2>
               </NavbarBrand>
               <button className="navbar-toggler" id="navbar_global">

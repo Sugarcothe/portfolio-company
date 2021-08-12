@@ -11,10 +11,10 @@ import others2 from "./assets/img/icons/common/elizeu.jpg";
 
 export const greetings = {
 	name: "ICodeTill.xyz",
-	title: "Hi, you are welcome",
+	title: "Hi, I am Valentine Eze",
 	description:
-		"My name is Valentine, i enjoy writing code and making stuff work on the web. i have good experiences, and building on them, i learn fast and always open to learn more from anywhere and anybody",
-	resumeLink: "ifeanyivalentine82@gmail.com",
+		"My name is Valentine, i enjoy writing code and making Applications work on the web. I have good experiences, and building on them, i learn fast and always open to learn more from anywhere and anybody",
+	resumeLink: "mailto:ifeanyivalentine82@gmail.com",
 };
 
 export const openSource = {
@@ -24,8 +24,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/",
-	instagram: "https://www.instagram.com/",
+	// facebook: "https://www.facebook.com/",
+	// instagram: "https://www.instagram.com/",
 	twitter: "https://twitter.com/sweetestshuga",
 	github: "https://github.com/Sugarcothe",
 	linkedin: "https://www.linkedin.com/in/valentineeze/",
@@ -36,6 +36,9 @@ export const skillsSection = {
 	subTitle:
 		"I have great number of tools, which i choose the best in creating excellence in your project",
 	skills: [
+		emoji(
+			"⚡ Great communication skill, and team spirited"
+		),
 		emoji(
 			"⚡ Develop highly interactive Frontend /Backend for your web and mobile applications"
 		),
@@ -53,8 +56,12 @@ export const skillsSection = {
 
 	softwareSkills: [
 		{
-			skillName: "html",
+			skillName: "Html",
 			fontAwesomeClassname: "vscode-icons:file-type-html",
+		},
+		{
+			skillName: "linux",
+			fontAwesomeClassname: "vscode-icons:file-type-ubuntu",
 		},
 		{
 			skillName: "css3",

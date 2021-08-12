@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Navigation from "./components/Navigation";
 import Greetings from "./containers/Greetings";
 import Skills from "./containers/Skills";
+import Experience from "./containers/Experience";
 import Proficiency from "./containers/Proficiency";
 import Education from "./containers/Education";
 import Projects from "./containers/Projects";
@@ -22,7 +23,7 @@ const App = () => {
 							<Navigation />
 							<Greetings />
 							<Skills />
-							<Proficiency />
+							<Proficiency /> 
 							<Education />
 							<Experience />
 							<Feedbacks />

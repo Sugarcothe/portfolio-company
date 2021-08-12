@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import code from '../assets/lottie/build1.json';
+import lottie from '../assets/img/val.gif'
 
 
 import { Fade } from 'react-reveal';
@@ -61,7 +62,8 @@ const Greetings = () => {
                       </div>
                     </Col>
                     <Col lg="6">
-                      <GreetingLottie animationData={code}/>
+                      {/* <GreetingLottie animationData={lottie}/> */}
+                      <img width='300' src={lottie} alt="greeting image" />
                     </Col>
                   </Row>
                 </div>
