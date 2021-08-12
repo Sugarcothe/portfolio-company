@@ -62,8 +62,7 @@ const Greetings = () => {
                       </div>
                     </Col>
                     <Col lg="6">
-                      {/* <GreetingLottie animationData={lottie}/> */}
-                      <img width='250' src={lottie} alt="greeting image" />
+                      <GreetingLottie animationData={code}/>
                     </Col>
                   </Row>
                 </div>
