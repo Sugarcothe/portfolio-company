@@ -7,7 +7,7 @@ import {
     Col
 } from "reactstrap";
 
-const Edution = () => {
+const Education = () => {
     return ( 
         <section className="section pb-0 bg-gradient-info my-5">
             <Container>
@@ -17,9 +17,9 @@ const Edution = () => {
                         <i className="ni ni-books text-info" />
                         </div>
                     </div>
-                    {/* <div className="pl-4">
-                        <h4 className="display-3 text-white">Education</h4>
-                    </div> */}
+                    <div className="pl-4">
+                        <h4 className="display-3 text-white">Experience</h4>
+                    </div>
                 </div>
                 <Row className="row-grid align-items-center">
                     {
@@ -48,4 +48,4 @@ const Edution = () => {
      );
 }
  
-export default Edution;
+export default Education;

@@ -5,7 +5,7 @@ import Navigation from "./components/Navigation";
 import Greetings from "./containers/Greetings";
 import Skills from "./containers/Skills";
 import Proficiency from "./containers/Proficiency";
-import Experience from "./containers/Experience";
+import Education from "./containers/Education";
 import Projects from "./containers/Projects";
 import GithubProfile from "./containers/GithubProfile";
 import Feedbacks from "./containers/Feedbacks";
@@ -23,7 +23,7 @@ const App = () => {
 							<Greetings />
 							<Skills />
 							<Proficiency />
-							{/* <Education /> */}
+							<Education />
 							<Experience />
 							<Feedbacks />
 							<Projects />
