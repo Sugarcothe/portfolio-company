@@ -256,7 +256,7 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "Steve Kakooza",
+		name: "Anna Oforma",
 		feedback:
 			"working with val have seen us happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Gateway interactive has been great. He handle things very efficiently and available for any task",
 	},

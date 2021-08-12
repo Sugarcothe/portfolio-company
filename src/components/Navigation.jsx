@@ -67,7 +67,7 @@ const Navigation = () => {
                   </Row>
                 </div>
                 <Nav className="align-items-lg-center ml-lg-auto" navbar>
-                  <NavItem>
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href={socialLinks.facebook}
@@ -78,8 +78,8 @@ const Navigation = () => {
                         Facebook
                       </span>
                     </NavLink>
-                  </NavItem>
-                  <NavItem>
+                  </NavItem> */}
+                  {/* <NavItem>
                     <NavLink
                       className="nav-link-icon"
                       href={socialLinks.instagram}
@@ -90,7 +90,7 @@ const Navigation = () => {
                         Instagram
                       </span>
                     </NavLink>
-                  </NavItem>
+                  </NavItem> */}
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
