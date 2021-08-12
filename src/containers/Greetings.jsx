@@ -63,7 +63,7 @@ const Greetings = () => {
                     </Col>
                     <Col lg="6">
                       {/* <GreetingLottie animationData={lottie}/> */}
-                      <img width='300' src={lottie} alt="greeting image" />
+                      <img width='250' src={lottie} alt="greeting image" />
                     </Col>
                   </Row>
                 </div>
